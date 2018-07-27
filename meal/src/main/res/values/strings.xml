@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">吃呗</string>
+    <string name="phone_net_null">网络已断开,请检查</string>
+    <string name="permission_tips">部分权限未获取，请确认</string>
+    <string name="init_data_tips">正在初始化数据，请稍后</string>
+    <string-array name="tabTags">
+        <item>首页</item>
+        <item>分类</item>
+        <item>我的</item>
+    </string-array>
+    <string-array name="tabIcons">
+        <item>tab_home</item>
+        <item>tab_catagory</item>
+        <item>tab_my</item>
+    </string-array>
+    <string-array name="fragmentArray">
+        <item>com.aaron.group.smartmeal.ui.home.fragment.HomeFragment</item>
+        <item>com.aaron.group.smartmeal.ui.home.fragment.CatagoryFragment</item>
+        <item>com.aaron.group.smartmeal.ui.home.fragment.PersonalFragment</item>
+    </string-array>
+    <string name="exit_tips">再按一次退出</string>
+    <string name="home_tag">首页</string>
+    <string name="home_news">今日优惠菜品：红绕肉</string>
+    <string name="money_unit">元</string>
+    <string name="nodata">暂无数据</string>
+    <string name="home_banner_tips">首页banner跳转界面未设置</string>
+    <string name="func_order">下单</string>
+    <string name="func_cancel">再逛逛</string>
+    <string name="home_order_pop_nodata">菜品数据不存在，请重试</string>
+    <string name="home_order_pop_cancel">该菜品不合适，再逛逛</string>
+    <string name="func_plus">+</string>
+    <string name="func_less">-</string>
+    <string name="token_str">DGFIUY9845TTD</string>
+    <string name="info_order_tologin">请登录后下单</string>
+    <string name="login_username_hit">请输入用户名</string>
+    <string name="login_usepsw_hit">请输入密码</string>
+    <string name="func_login">登录</string>
+    <string name="login_reslut_noname">用户名不存在</string>
+    <string name="login_reslut_pswerror">密码输入错误</string>
+    <string name="login_reslut_success">登录成功</string>
+    <string name="info_login_cancel">本次登录已取消</string>
+    <string name="info_register_cancel">本次注册已取消</string>
+    <string name="info_order_notables">本店暂无餐桌，请稍后下单</string>
+    <string name="info_order_tablesno">你的订单已生成，请到</string>
+    <string name="info_tablesno">号餐桌就餐。</string>
+    <string name="sure">确认</string>
+    <string name="cancel">取消</string>
+    <string name="dishes_append">你选择的菜品以添加到订单，请确认</string>
+    <string name="persnal_modify_psw">修改密码</string>
+    <string name="persnal_view_order">查看订单</string>
+    <string name="persnal_change_dingtable">换桌申请</string>
+    <string name="persnal_my">我的资料</string>
+    <string name="setting_people_hit">请输入用餐人数</string>
+    <string name="info_setting_people_error">请正确填写用餐人数</string>
+    <string name="order_no">订单编号：</string>
+    <string name="order_dingtable_no">用餐桌编号：</string>
+    <string name="order_peoples">用餐人数：</string>
+    <string name="order_status">订单状态：</string>
+    <string name="order_user">下单人：</string>
+    <string name="order_time">下单时间：</string>
+    <string name="order_total">订单总价：</string>
+    <string name="order_pay">去支付</string>
+    <string name="info_order_null">当前无订单信息，去点餐吧</string>
+    <string name="order_status_nopay">未支付</string>
+    <string name="order_status_pay">已支付</string>
+    <string name="order_tag">我的订单</string>
+    <string name="order_header_dishes">菜品名</string>
+    <string name="order_header_dishesnum">数量</string>
+    <string name="order_header_dishesprice">费用</string>
+    <string name="prople_unit">人</string>
+    <string name="dingtable_unit">号桌</string>
+    <string name="info_confirm_pay">请确认支付</string>
+    <string name="order_pay_error">支付失败</string>
+    <string name="order_pay_success">支付成功</string>
+    <string name="current_dingtable">当前您的餐桌：</string>
+    <string name="changedingtable_tag">换桌申请</string>
+    <string name="diningtable_toatal_nums">人桌</string>
+    <string name="order_dingtable_tips">桌</string>
+    <string name="change_dingtable_tips">您可以在下面的空餐桌列表选择餐桌提交换桌申请</string>
+    <string name="confirm_change_diningtable">请确认换桌</string>
+    <string name="change_dingtable_no">当前餐桌已满，无法换桌</string>
+    <string name="change_dingtable_success">换桌已生效，祝您用餐愉快</string>
+    <string name="to_pay">去结算</string>
+    <string name="title_car">购物清单</string>
+    <string name="to_register">注册</string>
+    <string name="login_userepsw_hit">请确认密码</string>
+    <string name="register_realname_hit">请输入真实姓名</string>
+    <string name="register_exist_it">用户名已存在</string>
+    <string name="register_phone_hit">请输入手机号码</string>
+    <string name="register_qq_hit">请输入qq</string>
+    <string name="register_sex_hit">请选择性别</string>
+    <string name="login_pswnoe_hit">两次密码不一致</string>
+    <string name="register_success_hit">本次注册成功</string>
+    <string name="sex_man">男</string>
+    <string name="sex_woman">女</string>
+</resources>

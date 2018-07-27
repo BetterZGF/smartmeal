@@ -1,0 +1,11 @@
+[
+  {"categoryId": 1001, "categoryName": "荤菜", "categoryDesc": "荤菜类菜品", "categoryStatus": 0},
+  {"categoryId": 1002, "categoryName": "素菜", "categoryDesc": "素菜类菜品", "categoryStatus": 0},
+  {"categoryId": 1003, "categoryName": "汤粥", "categoryDesc": "汤粥类菜品", "categoryStatus": 0},
+  {"categoryId": 1004, "categoryName": "西点", "categoryDesc": "西点类菜品", "categoryStatus": 0},
+  {"categoryId": 1005, "categoryName": "主食", "categoryDesc": "主食类菜品", "categoryStatus": 0},
+  {"categoryId": 1006, "categoryName": "饮品", "categoryDesc": "饮品类菜品", "categoryStatus": 0},
+  {"categoryId": 1007, "categoryName": "便当", "categoryDesc": "便当类菜品", "categoryStatus": 0},
+  {"categoryId": 1008, "categoryName": "小吃", "categoryDesc": "小吃类菜品", "categoryStatus": 0},
+  {"categoryId": 1009, "categoryName": "杭帮菜", "categoryDesc": "杭帮菜小炒", "categoryStatus": 0},
+  {"categoryId": 1010, "categoryName": "宵夜", "categoryDesc": "宵夜", "categoryStatus": 0}]

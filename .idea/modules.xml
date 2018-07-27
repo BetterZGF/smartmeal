@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapterHelper/adapterHelper.iml" filepath="$PROJECT_DIR$/adapterHelper/adapterHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meal/meal.iml" filepath="$PROJECT_DIR$/meal/meal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartmeal.iml" filepath="$PROJECT_DIR$/smartmeal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinKit/spinKit.iml" filepath="$PROJECT_DIR$/spinKit/spinKit.iml" />
+    </modules>
+  </component>
+</project>

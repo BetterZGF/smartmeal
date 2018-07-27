@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0483b9</color>
+    <color name="colorPrimaryDark">#ff035c81</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="activity_bg">#ffe7e7e7</color>
+    <color name="color_text_01">#ffc5c9ce</color>
+    <color name="color_text_03">#ffb1b7be</color>
+    <color name="split_line_color">#ffc9d1d9</color>
+    <color name="split_line_bootom_color">#ffa8adb3</color>
+    <color name="input_stock">#ffbdc7d8</color>
+    <color name="color_text_02">#ff181c20</color>
+    <color name="location_circle_bg">#320483b9</color>
+    <color name="indicator_color">#fffff18f</color>
+    <color name="tabs_click">#ff8a153e</color>
+    <color name="color_text_04">@android:color/holo_red_dark</color>
+    <color name="bg_01">#ffc3c4c6</color>
+    <color name="home_dishes_bg">#aa000000</color>
+    <color name="diningtable_bg">#33000000</color>
+</resources>

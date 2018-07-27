@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+    <q.rorbin.verticaltablayout.VerticalTabLayout
+        android:id="@+id/catagoryTabs"
+        android:background="@color/activity_bg"
+        app:indicator_color="@color/colorPrimary"
+        app:indicator_corners="2px"
+        app:indicator_width="2dp"
+        app:indicator_gravity="right"
+        app:tab_mode="scrollable"
+        app:tab_height="@dimen/vtabs_height"
+        app:tab_margin="5dp"
+        android:layout_width="@dimen/vtabs_width"
+        android:layout_height="match_parent" />
+    <android.support.v4.view.ViewPager
+        android:id="@+id/catagoryViewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

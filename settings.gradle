@@ -1,0 +1,1 @@
+include ':meal', ':adapterHelper', ':spinKit'
